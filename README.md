@@ -2,4 +2,4 @@
 my in-class repository for github
 
 
-This is my class **inclass repo
+This is my class #inclass repo
